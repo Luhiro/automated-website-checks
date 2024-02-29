@@ -1,6 +1,0 @@
-export const inventoryList = "inventory_list"
-export const inventoryItem = "inventory_item"
-export const inventoryItemName = "inventory_item_name"
-export const inventoryItemDescription = "inventory_item_desc"
-export const inventoryItemImage = "inventory_item_img"
-export const inventoryItemPrice = "inventory_item_price"
